@@ -23,7 +23,7 @@ repository               : "academicpages/MShvakel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepic.jpeg"
   name             : "Marie Shvakel"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in computer science interested in human-factored software engineering research"
