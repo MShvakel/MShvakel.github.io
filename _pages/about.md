@@ -13,9 +13,9 @@ I work under Dr.Yuriy Brun at the Laboratory for Software Engineering Research (
 
 Research Interests
 ======
+Overall, my research interests lie in the human factors of software engineering. As modern software becomes deeply engrained in our daily lives, and with the widespread adoption of AI in these systems, trust in software is no longer optional. By understanding how users (and developers in particular) interact with various software systems, I aim to build tools that people can rely on and that support the productivity and wellbeing of their users. 
 
-In-Progress Projects
-======
+
 
 
 
