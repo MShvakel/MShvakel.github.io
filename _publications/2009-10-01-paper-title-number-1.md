@@ -2,7 +2,6 @@
 title: "My Model is Unfair, Do People Even Care? Visual Design Affects Trust and Perceived Bias in Machine Learning"
 collection: publications
 category: manuscripts
-permalink: /publication/IEEE-VIZ
 date: 10-25-2023
 venue: 'IEEE Transactions on Visualization and Computer Graphics'
 paperurl: 'https://doi.org/10.1109/TVCG.2023.3327192'
